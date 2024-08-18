@@ -27,6 +27,11 @@ This MATLAB script performs modal analysis on impact test data using the Prony m
 
 4. **View Results**:
    - The script will generate plots for the frequency response, the identified mode shapes, and more.
+   ![alt text](https://github.com/shahin1009/prony/blob/main/pics/Pronymethodpub_01.png?raw=true)
+   ![alt text](https://github.com/shahin1009/prony/blob/main/pics/Pronymethodpub_02.png?raw=true)
+   ![alt text](https://github.com/shahin1009/prony/blob/main/pics/Pronymethodpub_03.png?raw=true)
+   ![alt text](https://github.com/shahin1009/prony/blob/main/pics/Pronymethodpub_05.png?raw=true)
+
 
 ## Functions
 
